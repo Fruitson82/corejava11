@@ -1,0 +1,19 @@
+- 클래스 주석
+	/**
+	 * 요약문 (및 설명)
+	 * @author Fruitson
+	 * @version 1.1
+	 */
+ 
+ - 메서드 주석
+ 	/**
+ 	 * 요약문 (및 설명)
+ 	 * @param byPercent 급여 인산 백분율(예를 들어 10은 10%를 의미)
+ 	 * @return 인상액
+ 	 */
+ 	 
+ - 변수 주석(정적 상수만...)
+ 	/**
+ 	 * 얀간 일 수(윤년 제외)
+ 	 */
+ 	public static final int DAYS_PER_YEAR = 365;
